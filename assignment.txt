@@ -1,0 +1,13 @@
+Customer_Orders:
+
+1. Find the customer with Maximum number of orders
+2. Find the customer with Maximum total amount of his orders
+3. Find customers without any orders
+4. Find bad raws - which customer does not exist or order does not exist
+5. Create a view with customers and their total amount
+5.a. Create a view with customers and their average order amount 
+6. find the total amount of all orders totally
+7. find the most frequent ordered item
+8. find all of the items which were not purchased at all
+9. which item was purchased the most
+A. which item had the maximum total amount of purcahses totally
